@@ -27,7 +27,7 @@ define n = Character(None)
 
 default hope = 35
 default pressure = 45
-default dissociation = 0
+default dissociation = 10
 default seen = 0
 default jack_control = 0
 default memory_fragments = []
